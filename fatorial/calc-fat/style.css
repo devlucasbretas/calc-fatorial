@@ -37,6 +37,7 @@ button {
     margin-bottom: 20px;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 input {
@@ -46,4 +47,9 @@ input {
     padding: 0px 10px;
     border: 2px solid rgb(66, 66, 243);
     border-radius: 10px;
+}
+
+footer {
+    margin-top: 200px;
+    text-align: center;
 }
